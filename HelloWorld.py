@@ -4,9 +4,12 @@
 ## HelloWorld.Python ##
 
 str = "! Hello World !"
+print("\n"+str)
 
 str=  "! Bonjour Monde !"
+print("\n"+str)
 
+str = "Comment tournez-vous ?"
 print("\n"+str)
 
 ##
