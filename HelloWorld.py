@@ -12,7 +12,4 @@ print("\n"+str)
 str = "Comment tournez-vous ?"
 print("\n"+str)
 
-str = "pas très rond"
-print("\n"+str)
-
 ##
