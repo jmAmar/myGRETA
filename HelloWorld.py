@@ -2,8 +2,11 @@
 #coding: UTF-8
 
 ## HelloWorld.Python ##
+
 str = "! Hello World !"
 
-print("\n+str")
+str=  "! Bonjour Monde !"
+
+print("\n"+str)
 
 ##
